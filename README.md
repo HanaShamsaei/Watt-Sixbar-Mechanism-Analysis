@@ -58,5 +58,3 @@ The repository includes an **animation video** of the six-bar mechanism motion a
 This video demonstrates the MATLAB-generated animation and simulation output.  
 
 ---
-
-## 📂 Repository Structure
