@@ -1,3 +1,4 @@
+### For further codes go to Cam-Design-Roller-Follower and Cam-Mechanism-Design Repositories.
 # Watt Six-Bar Mechanism Analysis
 
 This repository contains the **kinematic and dynamic analysis of a Watt six-bar mechanism** as part of the *Machine Dynamics (دینامیک ماشین)* course project at the University of Tehran.
